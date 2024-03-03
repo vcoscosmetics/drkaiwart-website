@@ -1,0 +1,31 @@
+body{
+    font-family: Tahoma;
+}
+
+
+.container{
+    
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+
+    
+}
+
+
+.wrapper{
+
+    width: 80%;
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-blend-mode: darken;
+
+}
+
+.wrapper img{
+    mix-blend-mode: darken;
+    width: 90%;
+}
+
